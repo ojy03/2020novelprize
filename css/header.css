@@ -1,0 +1,26 @@
+.header {
+  padding: 30px;
+  border: 2px solid transparent;
+  position: relative;
+}
+
+.header h1 {
+  font-size: 50px;
+  font-family: Impact, Charcoal, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 10s infinite linear;
+  }
+
+  @-webkit-keyframes hue {
+    from {
+      -webkit-filter: hue-rotate(0deg);
+    }
+    to {
+      -webkit-filter: hue-rotate(-360deg);
+    }
+}

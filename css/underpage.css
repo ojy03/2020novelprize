@@ -1,0 +1,21 @@
+.leftcolumn {
+  float: left;
+  width: 17%;
+  padding-right: 20px;
+}
+
+.rightcolumn{
+  float:left;
+  width:83%;
+}
+
+@media screen and (max-width: 1000px) {
+  .rightcolumn{
+    width: 100%;
+    padding: 0;
+    flex-direction:;
+  }
+  .leftcolumn{
+    display:none;
+  }
+}

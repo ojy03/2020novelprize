@@ -1,0 +1,10 @@
+.HTML5,body{background: rgb(162,251,143);
+background: linear-gradient(180deg, rgba(162,251,143,1) 0%, rgba(119,211,250,1) 50%, rgb(162,251,143) 100%);margin:0; padding:0; height:100%;}
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgb(162,251,143); border-radius: 30px; }
+::-webkit-scrollbar-button { display: none; }

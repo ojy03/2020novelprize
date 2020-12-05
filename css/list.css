@@ -1,0 +1,12 @@
+.list{
+  color:lightgray;
+  line-height: 23px
+}
+
+.list a{
+  color:lightgray;
+}
+
+.list a:hover{
+  text-decoration:underline;
+}

@@ -1,0 +1,9 @@
+.HTML5,body{background-repeat:none; background: rgb(240,230,140);background: linear-gradient(180deg, rgba(240,230,140,1) 0%, rgba(238,232,170,1) 35%, rgba(248,248,255,1) 100%); margin:0; padding:0; height:100%;}
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgb(240,230,140); border-radius: 30px; }
+::-webkit-scrollbar-button { display: none; }

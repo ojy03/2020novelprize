@@ -2,7 +2,7 @@
   float: left;
   width: 58%;
   padding-right: 20px
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Jua', sans-serif;
 }
 
 /* Right column */
@@ -12,13 +12,13 @@
   padding-right: 20px;
   position: sticky;
   top: 0;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Jua', sans-serif;
 }
 
 .rightcolumn{
   float:left;
   width:25%;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Jua', sans-serif;
 }
 
 @media screen and (max-width: 1250px) {
